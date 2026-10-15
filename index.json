@@ -11,12 +11,12 @@
         "name": "ProChan",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangapro",
         "resources": {
-          "apkUrl": "https://github.com/MohammedTeir/extensions/releases/download/prochan-v104068-aa129b4603eb/tachiyomi-ar.mangapro-v1.4.68.apk",
+          "apkUrl": "https://github.com/MohammedTeir/extensions/releases/download/prochan-v104069-6fc19ce66756/tachiyomi-ar.mangapro-v1.4.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/MohammedTeir/extensions-source@main/src/ar/mangapro/res/mipmap-xhdpi/ic_launcher.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "104068",
-        "versionName": "1.4.68",
+        "versionCode": "104069",
+        "versionName": "1.4.69",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
