@@ -11,12 +11,12 @@
         "name": "ProChan",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangapro",
         "resources": {
-          "apkUrl": "https://github.com/MohammedTeir/extensions/releases/download/prochan-v104069-6fc19ce66756/tachiyomi-ar.mangapro-v1.4.69.apk",
+          "apkUrl": "https://github.com/MohammedTeir/extensions/releases/download/prochan-v106069-ba2ecc2869c8/tachiyomi-ar.mangapro-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/MohammedTeir/extensions-source@main/src/ar/mangapro/res/mipmap-xhdpi/ic_launcher.png"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104069",
-        "versionName": "1.4.69",
+        "extensionLib": "1.6",
+        "versionCode": "106069",
+        "versionName": "1.6.69",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -24,6 +24,30 @@
             "name": "ProChan",
             "language": "ar",
             "homeUrl": "https://procomic.pro"
+          }
+        ]
+      },
+      {
+        "name": "Comix",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comix",
+        "resources": {
+          "apkUrl": "https://github.com/MohammedTeir/extensions/releases/download/comix-v106052-54494defd493/tachiyomi-en.comix-v1.6.52.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/MohammedTeir/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106052",
+        "versionName": "1.6.52",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7537715367149829912",
+            "name": "Comix",
+            "language": "en",
+            "homeUrl": "https://comix.to",
+            "mirrorUrls": [
+              "https://comix.to",
+              "https://comix.ws"
+            ]
           }
         ]
       }

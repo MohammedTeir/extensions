@@ -1,8 +1,14 @@
 {
   "eu.kanade.tachiyomi.extension.ar.mangapro": {
     "apk": {
-      "name": "tachiyomi-ar.mangapro-v1.4.69.apk",
-      "sha256": "6fc19ce667567a4be78e44754d58c261d2cb1c6a3adf4b31c89df44bd4a4ab30"
+      "name": "tachiyomi-ar.mangapro-v1.6.69.apk",
+      "sha256": "ba2ecc2869c803be7c66b3affd72b268111bc14a9878cc15e58fa865f9cd747f"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.comix": {
+    "apk": {
+      "name": "tachiyomi-en.comix-v1.6.52.apk",
+      "sha256": "54494defd493d7f57a17eab701f09977c99a1d728e38d52143e6a6ccb0728ac7"
     }
   }
 }
